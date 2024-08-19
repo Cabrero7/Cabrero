@@ -1,5 +1,5 @@
 Descripción
-Este proyecto es un ejemplo práctico de un documento HTML que demuestra varias características fundamentales del desarrollo front-end utilizando HTML y CSS. El archivo incluye ejemplos de estructura básica, encabezados, divisiones, enlaces, listas, elementos multimedia, tablas y formularios.
+Este proyecto es un ejemplo práctico de un documento HTML que demuestra varias características fundamentales del desarrollo front-end utilizando HTML. El archivo incluye ejemplos de estructura básica, encabezados, divisiones, enlaces, listas, elementos multimedia, tablas y formularios.
 
 Características de las Secciones
 1. Estructura Básica del Documento HTML
@@ -19,5 +19,5 @@ Incluye un formulario básico con campos para nombre, correo electrónico y un �
 
 Ejecución
 Para visualizar este proyecto:
-Guarda el contenido del código en un archivo con la extensión .html, por ejemplo, practico_frontend.html.
+Guarda el archivo aswegurando que tenga la extensión .html, por ejemplo, TP1.html.
 Abre el archivo con cualquier navegador web.
