@@ -1,7 +1,7 @@
-Descripción
-Este proyecto es un ejemplo práctico de un documento HTML que demuestra varias características fundamentales del desarrollo front-end utilizando HTML. El archivo incluye ejemplos de estructura básica, encabezados, divisiones, enlaces, listas, elementos multimedia, tablas y formularios.
-
-Características de las Secciones
+-Descripción
+Este proyecto es un ejemplo práctico de un documento HTML que demuestra varias características fundamentales del desarrollo front-end utilizando HTML.
+El archivo incluye ejemplos de estructura básica, encabezados, divisiones, enlaces, listas, elementos multimedia, tablas y formularios.
+-Características de las Secciones
 1. Estructura Básica del Documento HTML
 Sección que describe la estructura mínima necesaria para un documento HTML válido, con metadatos y un título.
 2. Encabezados y Propiedades del Texto
@@ -16,8 +16,7 @@ Demuestra la inclusión de elementos multimedia como imágenes, videos y audios 
 Sección que muestra la construcción de una tabla simple con encabezados y datos.
 7. Formularios
 Incluye un formulario básico con campos para nombre, correo electrónico y un área de texto para mensajes.
-
-Ejecución
+-Ejecución
 Para visualizar este proyecto:
 Guarda el archivo aswegurando que tenga la extensión .html, por ejemplo, TP1.html.
 Abre el archivo con cualquier navegador web.
