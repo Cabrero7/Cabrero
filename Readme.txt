@@ -18,5 +18,4 @@ Sección que muestra la construcción de una tabla simple con encabezados y dato
 Incluye un formulario básico con campos para nombre, correo electrónico y un área de texto para mensajes.
 -Ejecución
 Para visualizar este proyecto:
-Guarda el archivo aswegurando que tenga la extensión .html, por ejemplo, TP1.html.
-Abre el archivo con cualquier navegador web.
+https://cabrero7.github.io/Cabrero/
