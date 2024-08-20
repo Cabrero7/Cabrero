@@ -18,4 +18,4 @@ Sección que muestra la construcción de una tabla simple con encabezados y dato
 Incluye un formulario básico con campos para nombre, correo electrónico y un área de texto para mensajes.
 -Ejecución
 Para visualizar este proyecto:
-https://cabrero7.github.io/Cabrero/
+A través del siguiente link: https://cabrero7.github.io/Cabrero/ o descargando el archivo index.html y ejecutandolo en algun navegador
